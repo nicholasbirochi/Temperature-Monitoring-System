@@ -1,6 +1,6 @@
 # Temperature Monitoring System - Sistema de Monitoramento de Temperatura e Condições Ambientais
 
-A **Temperature Monitoring System** é uma aplicação web desenvolvida em **ASP.NET Core MVC** com foco no monitoramento de temperatura e condições ambientais. O projeto foi estruturado para organizar usuários, sensores, tipos de sensores e o vínculo entre eles, utilizando **SQL Server** como banco de dados.
+Este fork reúne um estudo de ASP.NET Core MVC e SQL Server para organizar usuários, sensores e tipos de sensores. A estrutura de cadastro e acesso a dados está no código; a integração com medições reais e os demais itens da seção de melhorias continuam como próximos passos.
 
 ## Descrição para o GitHub
 Aplicação web em ASP.NET Core MVC para monitoramento ambiental, com gerenciamento de usuários, sensores e tipos de sensores, integrada ao SQL Server.
@@ -211,3 +211,7 @@ Este projeto é uma boa base para estudos de:
 ## Autor
 
 Projeto mantido por **Nicholas Birochi**.
+
+## Licenciamento
+
+O estado de licenciamento do material de origem está registrado em [license](license). Este fork não acrescenta permissão de reutilização ao código ou aos documentos de terceiros.
