@@ -210,6 +210,6 @@ Este projeto é uma boa base para estudos de:
 
 ## Autor
 
+```text
 Projeto mantido por **Nicholas Birochi**.
-
 ```
