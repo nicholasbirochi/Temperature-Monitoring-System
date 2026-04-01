@@ -1,6 +1,6 @@
-# TempMeasure - Sistema de Monitoramento de Temperatura e Condições Ambientais
+# Temperature Monitoring System - Sistema de Monitoramento de Temperatura e Condições Ambientais
 
-A **TempMeasure** é uma aplicação web desenvolvida em **ASP.NET Core MVC** com foco no monitoramento de temperatura e condições ambientais. O projeto foi estruturado para organizar usuários, sensores, tipos de sensores e o vínculo entre eles, utilizando **SQL Server** como banco de dados.
+A **Temperature Monitoring System** é uma aplicação web desenvolvida em **ASP.NET Core MVC** com foco no monitoramento de temperatura e condições ambientais. O projeto foi estruturado para organizar usuários, sensores, tipos de sensores e o vínculo entre eles, utilizando **SQL Server** como banco de dados.
 
 ## Descrição para o GitHub
 Aplicação web em ASP.NET Core MVC para monitoramento ambiental, com gerenciamento de usuários, sensores e tipos de sensores, integrada ao SQL Server.
@@ -85,7 +85,7 @@ A aplicação possui páginas Razor organizadas em views como:
 * `Usuario`
 * `Sensor`
 
-Além disso, há uma página institucional **Sobre**, apresentando a proposta da TempMeasure como solução de monitoramento de temperatura e umidade.
+Além disso, há uma página institucional **Sobre**, apresentando a proposta da Temperature Monitoring System como solução de monitoramento de temperatura e umidade.
 
 ## Modelagem básica
 
